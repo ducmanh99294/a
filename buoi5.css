@@ -1,0 +1,31 @@
+@charset "utf-8";
+.main{
+    width: 1000px;
+    height: 250px;
+    margin: auto;
+    padding: auto;
+    background-color: antiquewhite;
+}
+.bt1{
+    width: 420px;
+    background-color: #997b7b;
+    display: inline-block;
+    margin-left: 10px;
+}
+.bt2{
+     display: inline-block;
+     margin-left: 10px;
+}
+.bt3{
+    display: inline-block;
+    margin-left: 10px;
+}
+.bt ul{
+    list-style-type: square;
+}
+.hop1{
+    display: inline-block;
+}
+.hop2{
+    display: inline-block;
+}

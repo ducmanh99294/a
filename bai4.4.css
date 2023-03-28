@@ -1,0 +1,62 @@
+@charset "utf-8";
+.main{
+    width: 1010px;
+    height: 300px;
+    background-color: #c7c6c6;
+    margin: auto;
+    padding: auto;
+}
+.box1{
+    background-color:antiquewhite ;
+    display: inline-block;
+    margin-left: 10px;
+}
+.box2{
+    background-color:antiquewhite ;
+    display: inline-block;
+    margin-left: 10px;
+}
+.box3{
+    background-color:antiquewhite ;
+    display: inline-block;
+    margin-left: 10px;
+}
+.hop1 h3{
+    width: 300px;
+    text-align: left;
+    padding-left: 20px;
+}
+.hop2 h3{
+    width: 300px;
+    text-align: left ;
+    padding-left: 20px;
+}
+.hop3 h3{
+    width: 300px;
+    text-align: left ;
+    padding-left: 20px;
+}
+.hop1 p{
+    width: 300px;
+    text-align: left;
+    padding-left: 20px;
+}
+.hop2 p{
+    width: 300px;
+    text-align: left ;
+    padding-left: 20px;
+}
+.hop3 p{
+    width: 300px;
+    text-align: left ;
+    padding-left: 20px;
+}
+.hinh1{
+    padding: 10px;
+}
+.hinh2{
+    padding: 10px;
+}
+.hinh3{
+    padding: 10px;
+}

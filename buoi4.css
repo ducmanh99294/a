@@ -1,0 +1,77 @@
+@charset 'utf-8';
+.main{
+    width: 900px;
+    height: 500px;
+    margin: auto;
+}
+.box1{
+    width: 900px;
+    height: 100px;
+    background-color: gray;
+}
+.hop1 {
+    width: 295px;
+    height: 100px;
+    background-color: gray;
+    display: inline-block;
+    text-align: center;
+    border-right: 1px solid rgb(0, 0, 0);
+}
+.hop2 {
+    width: 295px;
+    height: 100px;
+    background-color: gray;  
+    display: inline-block;
+    border-right: 1px solid rgb(0, 0, 0);
+}
+.hop3 {
+    width: 29 5px;
+    height: 100px;
+    background-color: gray;
+    display: inline-block;
+}
+h3{
+    color: white;
+    margin: 0px 5px;
+}
+p{
+    color: white;
+}
+.hop4 p{
+    color: black;
+}
+.hop5{
+    width: 600px;
+    height: 500px;
+    text-align: center;
+    background-color: rgb(156, 74, 74);
+    padding-top: 230px;
+    display: inline-block;
+}
+.hop4{
+    display: inline-block;
+    background-color: rgb(221, 45, 45);
+    margin-top: 2px;
+}
+.hop4 h2{
+    width: 200px;
+    height: 20px;
+    display: inline-block;
+}
+.hop4 hinh1{
+    width: 200px;
+    height: 50px;
+    padding-left: 600px;
+    display: inline-block;
+}
+.hop4 hinh2{
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+}
+.hop4 hinh3{
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+}
+

@@ -1,0 +1,19 @@
+@charset 'utf-8';
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    width: 1300px;
+    height: 600px;
+    background-color: rgb(224, 224, 31);
+}
+.hop1{
+    width: 700px;
+}
+.hop2{
+    width: 500px;
+    display: inline-block;
+}
+
+
